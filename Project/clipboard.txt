@@ -1,0 +1,9 @@
+Clipboard Data : 
+TypeError: bad operand type for unary +: 'str'Clipboard Data : 
+TypeError: bad operand type for unary +: 'str'Clipboard Data : 
+TypeError: bad operand type for unary +: 'str'Clipboard Data : 
+TypeError: bad operand type for unary +: 'str'Clipboard Data : 
+screenshot.pngClipboard Data : 
+screenshot.pngClipboard Data : 
+screenshot.pngClipboard Data : 
+screenshot.png

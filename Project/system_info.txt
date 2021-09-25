@@ -1,0 +1,18 @@
+
+Public IP Address: 71.125.5.128Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.19042
+Machine Information: AMD64
+Hostname: DESKTOP-3M32V9K
+Private IP Address: 192.168.1.110
+Public IP Address: 71.125.5.128
+Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.19042
+Machine Information: AMD64
+Hostname: DESKTOP-3M32V9K
+Private IP Address: 192.168.1.110
+Public IP Address: 71.125.5.128
+Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.19042
+Machine Information: AMD64
+Hostname: DESKTOP-3M32V9K
+Private IP Address: 192.168.1.110
